@@ -3,28 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\teacher\\source\\repos\\IntroToEF_B\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FDB2072A-48E5-4996-91AE-2F92E59064B4}|IntroToEF_B\\IntroToEF_B.csproj|c:\\users\\teacher\\source\\repos\\introtoef_b\\introtoef_b\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDB2072A-48E5-4996-91AE-2F92E59064B4}|IntroToEF_B\\IntroToEF_B.csproj|solutionrelative:introtoef_b\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{51BA69B9-65AD-7A1C-A383-FFFA854B767F}|IntroToEF_B\\IntroToEF_B.csproj|c:\\users\\teacher\\source\\repos\\introtoef_b\\introtoef_b\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51BA69B9-65AD-7A1C-A383-FFFA854B767F}|IntroToEF_B\\IntroToEF_B.csproj|solutionrelative:introtoef_b\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDB2072A-48E5-4996-91AE-2F92E59064B4}|IntroToEF_B\\IntroToEF_B.csproj|c:\\users\\teacher\\source\\repos\\introtoef_b\\introtoef_b\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FDB2072A-48E5-4996-91AE-2F92E59064B4}|IntroToEF_B\\IntroToEF_B.csproj|solutionrelative:introtoef_b\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{51BA69B9-65AD-7A1C-A383-FFFA854B767F}|IntroToEF_B\\IntroToEF_B.csproj|c:\\users\\teacher\\source\\repos\\introtoef_b\\introtoef_b\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51BA69B9-65AD-7A1C-A383-FFFA854B767F}|IntroToEF_B\\IntroToEF_B.csproj|solutionrelative:introtoef_b\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDB2072A-48E5-4996-91AE-2F92E59064B4}|IntroToEF_B\\IntroToEF_B.csproj|c:\\users\\teacher\\source\\repos\\introtoef_b\\introtoef_b\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDB2072A-48E5-4996-91AE-2F92E59064B4}|IntroToEF_B\\IntroToEF_B.csproj|solutionrelative:introtoef_b\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{51BA69B9-65AD-7A1C-A383-FFFA854B767F}|IntroToEF_B\\IntroToEF_B.csproj|c:\\users\\teacher\\source\\repos\\introtoef_b\\introtoef_b\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51BA69B9-65AD-7A1C-A383-FFFA854B767F}|IntroToEF_B\\IntroToEF_B.csproj|solutionrelative:introtoef_b\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDB2072A-48E5-4996-91AE-2F92E59064B4}|IntroToEF_B\\IntroToEF_B.csproj|c:\\users\\teacher\\source\\repos\\introtoef_b\\introtoef_b\\ef\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDB2072A-48E5-4996-91AE-2F92E59064B4}|IntroToEF_B\\IntroToEF_B.csproj|solutionrelative:introtoef_b\\ef\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{51BA69B9-65AD-7A1C-A383-FFFA854B767F}|IntroToEF_B\\IntroToEF_B.csproj|c:\\users\\teacher\\source\\repos\\introtoef_b\\introtoef_b\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51BA69B9-65AD-7A1C-A383-FFFA854B767F}|IntroToEF_B\\IntroToEF_B.csproj|solutionrelative:introtoef_b\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDB2072A-48E5-4996-91AE-2F92E59064B4}|IntroToEF_B\\IntroToEF_B.csproj|c:\\users\\teacher\\source\\repos\\introtoef_b\\introtoef_b\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDB2072A-48E5-4996-91AE-2F92E59064B4}|IntroToEF_B\\IntroToEF_B.csproj|solutionrelative:introtoef_b\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{51BA69B9-65AD-7A1C-A383-FFFA854B767F}|IntroToEF_B\\IntroToEF_B.csproj|c:\\users\\teacher\\source\\repos\\introtoef_b\\introtoef_b\\ef\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51BA69B9-65AD-7A1C-A383-FFFA854B767F}|IntroToEF_B\\IntroToEF_B.csproj|solutionrelative:introtoef_b\\ef\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDB2072A-48E5-4996-91AE-2F92E59064B4}|IntroToEF_B\\IntroToEF_B.csproj|c:\\users\\teacher\\source\\repos\\introtoef_b\\introtoef_b\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FDB2072A-48E5-4996-91AE-2F92E59064B4}|IntroToEF_B\\IntroToEF_B.csproj|solutionrelative:introtoef_b\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{51BA69B9-65AD-7A1C-A383-FFFA854B767F}|IntroToEF_B\\IntroToEF_B.csproj|c:\\users\\teacher\\source\\repos\\introtoef_b\\introtoef_b\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51BA69B9-65AD-7A1C-A383-FFFA854B767F}|IntroToEF_B\\IntroToEF_B.csproj|solutionrelative:introtoef_b\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51BA69B9-65AD-7A1C-A383-FFFA854B767F}|IntroToEF_B\\IntroToEF_B.csproj|c:\\users\\teacher\\source\\repos\\introtoef_b\\introtoef_b\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51BA69B9-65AD-7A1C-A383-FFFA854B767F}|IntroToEF_B\\IntroToEF_B.csproj|solutionrelative:introtoef_b\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51BA69B9-65AD-7A1C-A383-FFFA854B767F}|IntroToEF_B\\IntroToEF_B.csproj|c:\\users\\teacher\\source\\repos\\introtoef_b\\introtoef_b\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{51BA69B9-65AD-7A1C-A383-FFFA854B767F}|IntroToEF_B\\IntroToEF_B.csproj|solutionrelative:introtoef_b\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,8 +42,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\IntroToEF_B\\IntroToEF_B\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "IntroToEF_B\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\teacher\\source\\repos\\IntroToEF_B\\IntroToEF_B\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "IntroToEF_B\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-13T10:00:31.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\IntroToEF_B\\IntroToEF_B\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "IntroToEF_B\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\teacher\\source\\repos\\IntroToEF_B\\IntroToEF_B\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "IntroToEF_B\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-13T09:39:31.996Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -44,53 +78,53 @@
               "RelativeDocumentMoniker": "IntroToEF_B\\Controllers\\ProductController.cs",
               "ToolTip": "C:\\Users\\teacher\\source\\repos\\IntroToEF_B\\IntroToEF_B\\Controllers\\ProductController.cs",
               "RelativeToolTip": "IntroToEF_B\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwEEAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-11T10:27:46.125Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\IntroToEF_B\\IntroToEF_B\\Program.cs",
-              "RelativeDocumentMoniker": "IntroToEF_B\\Program.cs",
-              "ToolTip": "C:\\Users\\teacher\\source\\repos\\IntroToEF_B\\IntroToEF_B\\Program.cs",
-              "RelativeToolTip": "IntroToEF_B\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-11T10:26:47.6Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\IntroToEF_B\\IntroToEF_B\\Models\\Product.cs",
               "RelativeDocumentMoniker": "IntroToEF_B\\Models\\Product.cs",
               "ToolTip": "C:\\Users\\teacher\\source\\repos\\IntroToEF_B\\IntroToEF_B\\Models\\Product.cs",
               "RelativeToolTip": "IntroToEF_B\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA3wA4AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-11T10:20:51.581Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\IntroToEF_B\\IntroToEF_B\\EF\\AppDbContext.cs",
               "RelativeDocumentMoniker": "IntroToEF_B\\EF\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\teacher\\source\\repos\\IntroToEF_B\\IntroToEF_B\\EF\\AppDbContext.cs",
               "RelativeToolTip": "IntroToEF_B\\EF\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-11T10:16:42.492Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\IntroToEF_B\\IntroToEF_B\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "IntroToEF_B\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\teacher\\source\\repos\\IntroToEF_B\\IntroToEF_B\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "IntroToEF_B\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-11T10:27:58.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\IntroToEF_B\\IntroToEF_B\\appsettings.json",
               "RelativeDocumentMoniker": "IntroToEF_B\\appsettings.json",
@@ -98,21 +132,19 @@
               "RelativeToolTip": "IntroToEF_B\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-10-11T10:12:15.934Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-11T10:12:15.934Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\IntroToEF_B\\IntroToEF_B\\Views\\Product\\Index.cshtml",
-              "RelativeDocumentMoniker": "IntroToEF_B\\Views\\Product\\Index.cshtml",
-              "ToolTip": "C:\\Users\\teacher\\source\\repos\\IntroToEF_B\\IntroToEF_B\\Views\\Product\\Index.cshtml",
-              "RelativeToolTip": "IntroToEF_B\\Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-11T10:27:58.57Z",
-              "EditorCaption": ""
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\IntroToEF_B\\IntroToEF_B\\Program.cs",
+              "RelativeDocumentMoniker": "IntroToEF_B\\Program.cs",
+              "ToolTip": "C:\\Users\\teacher\\source\\repos\\IntroToEF_B\\IntroToEF_B\\Program.cs",
+              "RelativeToolTip": "IntroToEF_B\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T10:26:47.6Z"
             }
           ]
         },
