@@ -229,3 +229,4 @@ C:\Users\teacher\source\repos\IntroToEF_B\IntroToEF_B\obj\Debug\net10.0\refint\I
 C:\Users\teacher\source\repos\IntroToEF_B\IntroToEF_B\obj\Debug\net10.0\IntroToEF_B.pdb
 C:\Users\teacher\source\repos\IntroToEF_B\IntroToEF_B\obj\Debug\net10.0\IntroToEF_B.genruntimeconfig.cache
 C:\Users\teacher\source\repos\IntroToEF_B\IntroToEF_B\obj\Debug\net10.0\ref\IntroToEF_B.dll
+C:\Users\teacher\source\repos\IntroToEF_B\IntroToEF_B\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt

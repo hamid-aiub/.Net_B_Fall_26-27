@@ -44,7 +44,7 @@ namespace IntroToEF_B.Controllers
                 _context.SaveChanges();
                 return RedirectToAction("index");
             }
-            return View();
+            return View(product);
         }
 
         [HttpPost]

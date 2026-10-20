@@ -3,6 +3,7 @@
 *@
 @{
 }
+@model IntroToEF_B.Models.Product;
 
 <div>
     <h3>Creating New Product</h3>
@@ -10,23 +11,28 @@
         <table>
             <tr>
                 <td>Name</td>
-                <td><input type="text" name="name" placeholder="Enter Name"/> </td>
+                <td><input type="text" name="name" placeholder="Enter Name" value="@Model?.name"/> </td>
+                <td><span class="text-danger">@Html.ValidationMessage("name")</span></td>
             </tr>
             <tr>
                 <td>Description</td>
-                <td><input type="text" name="description" placeholder="Enter Description" /> </td>
+                <td><input type="text" name="description" placeholder="Enter Description" value="@Model?.description"/> </td>
+                <td><span class="text-danger">@Html.ValidationMessage("description")</span></td>
             </tr>
             <tr>
                 <td>Price</td>
-                <td><input type="text" name="price" placeholder="Enter Price" /> </td>
+                <td><input type="text" name="price" placeholder="Enter Price" value="@Model?.price" /> </td>
+                <td><span class="text-danger">@Html.ValidationMessage("price")</span></td>
             </tr>
             <tr>
                 <td>Stock</td>
-                <td><input type="text" name="stock" placeholder="Enter Stock" /> </td>
+                <td><input type="text" name="stock" placeholder="Enter Stock" value="@Model?.stock" /> </td>
+                <td><span class="text-danger">@Html.ValidationMessage("stock")</span></td>
             </tr>
             <tr>
                 <td>Category</td>
-                <td><input type="text" name="category" placeholder="Enter Category" /> </td>
+                <td><input type="text" name="category" placeholder="Enter Category" value="@Model?.category" /> </td>
+                <td><span class="text-danger">@Html.ValidationMessage("category")</span></td>
             </tr>
             <tr>
                 <td></td>
