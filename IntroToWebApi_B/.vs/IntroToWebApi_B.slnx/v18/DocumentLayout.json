@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\teacher\\source\\repos\\IntroToWebApi_B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A43F6CB0-2718-4BD8-A396-CBE9B6819FBB}|IntroToWebApi_B\\IntroToWebApi_B.csproj|c:\\users\\teacher\\source\\repos\\introtowebapi_b\\introtowebapi_b\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A43F6CB0-2718-4BD8-A396-CBE9B6819FBB}|IntroToWebApi_B\\IntroToWebApi_B.csproj|solutionrelative:introtowebapi_b\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A43F6CB0-2718-4BD8-A396-CBE9B6819FBB}|IntroToWebApi_B\\IntroToWebApi_B.csproj|c:\\users\\teacher\\source\\repos\\introtowebapi_b\\introtowebapi_b\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A43F6CB0-2718-4BD8-A396-CBE9B6819FBB}|IntroToWebApi_B\\IntroToWebApi_B.csproj|solutionrelative:introtowebapi_b\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A43F6CB0-2718-4BD8-A396-CBE9B6819FBB}|IntroToWebApi_B\\IntroToWebApi_B.csproj|c:\\users\\teacher\\source\\repos\\introtowebapi_b\\introtowebapi_b\\migrations\\20261122094047_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A43F6CB0-2718-4BD8-A396-CBE9B6819FBB}|IntroToWebApi_B\\IntroToWebApi_B.csproj|solutionrelative:introtowebapi_b\\migrations\\20261122094047_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A43F6CB0-2718-4BD8-A396-CBE9B6819FBB}|IntroToWebApi_B\\IntroToWebApi_B.csproj|c:\\users\\teacher\\source\\repos\\introtowebapi_b\\introtowebapi_b\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A43F6CB0-2718-4BD8-A396-CBE9B6819FBB}|IntroToWebApi_B\\IntroToWebApi_B.csproj|solutionrelative:introtowebapi_b\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A43F6CB0-2718-4BD8-A396-CBE9B6819FBB}|IntroToWebApi_B\\IntroToWebApi_B.csproj|c:\\users\\teacher\\source\\repos\\introtowebapi_b\\introtowebapi_b\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A43F6CB0-2718-4BD8-A396-CBE9B6819FBB}|IntroToWebApi_B\\IntroToWebApi_B.csproj|solutionrelative:introtowebapi_b\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A43F6CB0-2718-4BD8-A396-CBE9B6819FBB}|IntroToWebApi_B\\IntroToWebApi_B.csproj|c:\\users\\teacher\\source\\repos\\introtowebapi_b\\introtowebapi_b\\ef\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A43F6CB0-2718-4BD8-A396-CBE9B6819FBB}|IntroToWebApi_B\\IntroToWebApi_B.csproj|solutionrelative:introtowebapi_b\\ef\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A43F6CB0-2718-4BD8-A396-CBE9B6819FBB}|IntroToWebApi_B\\IntroToWebApi_B.csproj|c:\\users\\teacher\\source\\repos\\introtowebapi_b\\introtowebapi_b\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A43F6CB0-2718-4BD8-A396-CBE9B6819FBB}|IntroToWebApi_B\\IntroToWebApi_B.csproj|solutionrelative:introtowebapi_b\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\IntroToWebApi_B\\IntroToWebApi_B\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "IntroToWebApi_B\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\teacher\\source\\repos\\IntroToWebApi_B\\IntroToWebApi_B\\Controllers\\UserController.cs",
+              "RelativeToolTip": "IntroToWebApi_B\\Controllers\\UserController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T09:51:18.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20261122094047_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\IntroToWebApi_B\\IntroToWebApi_B\\Migrations\\20261122094047_InitialCreate.cs",
+              "RelativeDocumentMoniker": "IntroToWebApi_B\\Migrations\\20261122094047_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\teacher\\source\\repos\\IntroToWebApi_B\\IntroToWebApi_B\\Migrations\\20261122094047_InitialCreate.cs",
+              "RelativeToolTip": "IntroToWebApi_B\\Migrations\\20261122094047_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T09:40:54.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\IntroToWebApi_B\\IntroToWebApi_B\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "IntroToWebApi_B\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\teacher\\source\\repos\\IntroToWebApi_B\\IntroToWebApi_B\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "IntroToWebApi_B\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwBgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T09:31:40.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\IntroToWebApi_B\\IntroToWebApi_B\\Program.cs",
+              "RelativeDocumentMoniker": "IntroToWebApi_B\\Program.cs",
+              "ToolTip": "C:\\Users\\teacher\\source\\repos\\IntroToWebApi_B\\IntroToWebApi_B\\Program.cs",
+              "RelativeToolTip": "IntroToWebApi_B\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T09:28:09.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\IntroToWebApi_B\\IntroToWebApi_B\\Model\\User.cs",
+              "RelativeDocumentMoniker": "IntroToWebApi_B\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\teacher\\source\\repos\\IntroToWebApi_B\\IntroToWebApi_B\\Model\\User.cs",
+              "RelativeToolTip": "IntroToWebApi_B\\Model\\User.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvxQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T09:24:04.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\IntroToWebApi_B\\IntroToWebApi_B\\EF\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "IntroToWebApi_B\\EF\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\teacher\\source\\repos\\IntroToWebApi_B\\IntroToWebApi_B\\EF\\AppDbContext.cs",
+              "RelativeToolTip": "IntroToWebApi_B\\EF\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T09:25:58.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\IntroToWebApi_B\\IntroToWebApi_B\\appsettings.json",
+              "RelativeDocumentMoniker": "IntroToWebApi_B\\appsettings.json",
+              "ToolTip": "C:\\Users\\teacher\\source\\repos\\IntroToWebApi_B\\IntroToWebApi_B\\appsettings.json",
+              "RelativeToolTip": "IntroToWebApi_B\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-22T09:22:43.989Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1007,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
